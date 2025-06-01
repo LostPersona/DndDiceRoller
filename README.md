@@ -26,10 +26,13 @@ A lightweight, animated dice rolling app designed for Dungeons & Dragons and oth
 
 ---
 
-## 🌐 Russian Version
+## 🌐 Russian Version / Русскоязычная версия
 
 The original Russian-language version of the application is available under the `ru-version/` folder.  
 Interface and messages are in Russian, but the feature set is identical.
+
+Исходники кода доступны в папке `ru-version/`. Все функции идентичны английской версии, различие лишь в языке.
+В релизах есть RU версия экзешника.
 
 ---
 
